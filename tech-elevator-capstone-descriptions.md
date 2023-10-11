@@ -1,4 +1,6 @@
-﻿Book Search Command Line Application
+﻿# READMEs for Tech Elevator Capstone Projects
+
+Book Search Command Line Application
 Resume Description: 
 Developed a command line application that allows users to search and filter through a body of data in a hard-coded array containing books, imitating a bookstore. Each book includes the title, author, year of publication, and price. The results of a user’s search are displayed on the console.
 
