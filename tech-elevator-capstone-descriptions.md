@@ -16,7 +16,7 @@ Java, IntelliJ, Git
 
 
 ## Lending Catalog Command Line Application
-Developed by using knowledge of Java, IntelliJ, Git, and Unit Testing (JUnit) as an end-of-module project for Module One of Tech Elevator’s Coding Bootcamp. Expanded upon the Book Search Application to include movies and books, through building a command line application with a catalog of items users can lend to one another. The dataset is imported from multiple text files.
+Developed by using knowledge of Java, IntelliJ, Git, and Unit Testing (JUnit). Expanded upon the Book Search Application listed above, to include movies and books, through building a command line application with a catalog of items users can lend to one another. The dataset is imported from multiple text files.
 
 ### Technical Skills Used
 Unit Testing (JUnit), Java, IntelliJ, Git
@@ -33,7 +33,7 @@ Unit Testing (JUnit), Java, IntelliJ, Git
 
 
 ## E-Commerce Data Management Application
-Constructed an application using PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, and Git as a mid-module project for Module Two of Tech Elevator’s Coding Bootcamp, that allows a company’s employees to manage customer, product, and sales data. This includes the ability to view the list of products and, add, update, or delete product data.
+Constructed a back-end application using PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, and Git, that allows a company’s employees to manage customer, product, and sales data. This includes the ability to view the list of products and, add, update, or delete product data.
 
 ### Technical Skills Used: 
 PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, Git
@@ -47,7 +47,7 @@ PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, Git
 
 
 ## E-Commerce Shopping Cart Application
-Coded an application as an end-of-module project for Module Two of Tech Elevator’s Coding Bootcamp, that utilizes REST API and allows authorized users to view, add, update, and delete products in their shopping cart, as well as view their subtotal and cart total. Technical skills used include Spring Boot, PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, and Git.
+Coded a back-end application that utilizes REST API and allows authorized users to view, add, update, and delete products in their shopping cart, as well as view their subtotal and cart total. Further expanded upon in a later project listed below.
 
 ### Technical Skills Used
 Spring Boot, PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, Git
@@ -65,6 +65,12 @@ Spring Boot, PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, Git
 HTML, CSS, JavaScript, Vue.js, Responsive Design
 
 ### Demonstrated Skills and Knowledge
+* Creating HTML and using semantic elements
+* Styling with CSS and mapping layouts with grid and flexbox
+* Using JavaScript arrays and loops
+* Manipulating DOM
+* Implementing event handling and listeners
+* Using data from an event object
 
 
 ## E-Commerce Online Store (Full-Stack)
