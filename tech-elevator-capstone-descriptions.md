@@ -60,6 +60,7 @@ Spring Boot, PostgreSQL, E/R diagrams, Integration Testing, Java, IntelliJ, Git
 
 
 ## E-Commerce Online Store (Front-End Only)
+Developed a fully front-end online store through Vue.js, HTML, CSS, and Responsive Design that allows a retailer to sell their products. Customers can search for particular items and view a list of products. By clicking through the website, they can also view more detailed information about each individual product and add products to their personal shopping cart.
 
 ### Technical Skills Used
 HTML, CSS, JavaScript, Vue.js, Responsive Design
