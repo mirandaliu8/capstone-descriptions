@@ -1,4 +1,5 @@
 ﻿# READMEs for Tech Elevator Capstone Projects
+These projects are listed in chronological order in which they were completed.
 
 ## Book Search Command Line Application
 Developed by using beginning knowledge of Java, IntelliJ, and Git as a mid-module project for Module One of Tech Elevator’s Coding Bootcamp, this is a command line application that allows users to search and filter through a body of data in a hard-coded array containing books, imitating a bookstore. This body of data is stored in a separate text file. Each book within the array includes the title, author, year of publication, and price. The results of a user’s search are displayed on the console.
